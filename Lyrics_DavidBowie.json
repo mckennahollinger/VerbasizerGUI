@@ -1,0 +1,3363 @@
+{
+ "alternate_names": [
+  "David R. Jones",
+  "Ziggy Stardust",
+  "David Robert Jones"
+ ],
+ "api_path": "/artists/9534",
+ "description": {
+  "plain": "David Bowie (1947 \u2013 2016) was a British musician, and one of the most iconic rock stars with a widely diverse career where he frequently changed his appearance and musical style, resulting in an acclaimed  discography comparable to other stalwarts such as The Beatles and Bob Dylan. Born David Robert Jones, Bowie quickly renamed himself to prevent confusion with The Monkees singer Davy Jones. Enduring many early missteps, he rose to prominence when his most famous song, \u201cSpace Oddity,\u201d was played during the coverage of the Apollo 11 moon landing.\n\nDespite this early breakthrough, Bowie remained a cult figure for several years. Even the release of Hunky Dory, his first great album, went largely unnoticed. Bowie only lodged himself firmly in the public consciousness when he announced his bisexuality and created Ziggy Stardust in early 1972. A Martian who combined the debauchery of Iggy Pop with the artistry of Lou Reed, Ziggy was the main character in Bowie\u2019s breakthrough album, and his public persona for eighteen months.\n\nBowie used his new-found popularity to move to America, and dabble with new musical directions and cocaine. Diamond Dogs and Young Americans continue to divide critics, but Station To Station found Bowie at a new creative peak, despite escalating drug use and related health issues.\n\nMoving back to Europe helped Bowie reach even greater musical heights. He recorded his iconic \u201cBerlin Trilogy\u201d \u2013 Low, \u201cHeroes\u201d, and Lodger, with Brian Eno and Tony Visconti (despite the name, only Heroes was recorded in Berlin), and produced Iggy Pop\u2019s first two solo albums. This was followed by the hard-rocking Scary Monsters (And Super Creeps), and disco-influenced Let\u2019s Dance.\n\nBowie entered a period of critical apathy during the 1980s, as albums like Tonight and Never Let Me Down fell relatively flat. These were his Tin Machine days, and they paved the way for a renaissance of huge proportions, with albums such as 1. Outside, Earthling, Heathen, and Reality reclaiming his status as a number one pop star. Radio silence then ensued for much of the 2000s, until he surprisingly issued 2013\u2019s The Next Day, recorded in secret and released to critical acclaim.\n\nDavid Bowie passed away on January 10, 2016, due to cancer, two days after his 69th birthday and the release of his final album, Blackstar."
+ },
+ "facebook_name": "davidbowie",
+ "followers_count": 802,
+ "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+ "id": 9534,
+ "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+ "instagram_name": "davidbowie",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "David Bowie",
+ "translation_artist": false,
+ "twitter_name": "DavidBowieReal",
+ "url": "https://genius.com/artists/David-bowie",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 70799,
+  "annotator_login": "ashleychittock",
+  "api_path": "/referents/6934254",
+  "classification": "accepted",
+  "fragment": "David Bowie",
+  "id": 6934254,
+  "is_description": true,
+  "path": "/6934254/David-bowie/David-bowie",
+  "range": {
+   "content": "David Bowie"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6934254/David-bowie/David-bowie",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/9534",
+   "context": null,
+   "id": 9534,
+   "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+   "link_title": "David Bowie",
+   "title": "David Bowie",
+   "type": "Artist",
+   "url": "https://genius.com/artists/David-bowie"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6934254",
+    "body": {
+     "plain": "David Bowie (1947 \u2013 2016) was a British musician, and one of the most iconic rock stars with a widely diverse career where he frequently changed his appearance and musical style, resulting in an acclaimed  discography comparable to other stalwarts such as The Beatles and Bob Dylan. Born David Robert Jones, Bowie quickly renamed himself to prevent confusion with The Monkees singer Davy Jones. Enduring many early missteps, he rose to prominence when his most famous song, \u201cSpace Oddity,\u201d was played during the coverage of the Apollo 11 moon landing.\n\nDespite this early breakthrough, Bowie remained a cult figure for several years. Even the release of Hunky Dory, his first great album, went largely unnoticed. Bowie only lodged himself firmly in the public consciousness when he announced his bisexuality and created Ziggy Stardust in early 1972. A Martian who combined the debauchery of Iggy Pop with the artistry of Lou Reed, Ziggy was the main character in Bowie\u2019s breakthrough album, and his public persona for eighteen months.\n\nBowie used his new-found popularity to move to America, and dabble with new musical directions and cocaine. Diamond Dogs and Young Americans continue to divide critics, but Station To Station found Bowie at a new creative peak, despite escalating drug use and related health issues.\n\nMoving back to Europe helped Bowie reach even greater musical heights. He recorded his iconic \u201cBerlin Trilogy\u201d \u2013 Low, \u201cHeroes\u201d, and Lodger, with Brian Eno and Tony Visconti (despite the name, only Heroes was recorded in Berlin), and produced Iggy Pop\u2019s first two solo albums. This was followed by the hard-rocking Scary Monsters (And Super Creeps), and disco-influenced Let\u2019s Dance.\n\nBowie entered a period of critical apathy during the 1980s, as albums like Tonight and Never Let Me Down fell relatively flat. These were his Tin Machine days, and they paved the way for a renaissance of huge proportions, with albums such as 1. Outside, Earthling, Heathen, and Reality reclaiming his status as a number one pop star. Radio silence then ensued for much of the 2000s, until he surprisingly issued 2013\u2019s The Next Day, recorded in secret and released to critical acclaim.\n\nDavid Bowie passed away on January 10, 2016, due to cancer, two days after his 69th birthday and the release of his final album, Blackstar."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6934254,
+    "pinned": false,
+    "share_url": "https://genius.com/6934254",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6934254/David-bowie/David-bowie",
+    "verified": false,
+    "votes_total": 121,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.4470899470899471,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/265732",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/c9afb3ba2c2704fa76ff242f1eadcd03",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/c9afb3ba2c2704fa76ff242f1eadcd03",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/c9afb3ba2c2704fa76ff242f1eadcd03",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/c9afb3ba2c2704fa76ff242f1eadcd03",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/c9afb3ba2c2704fa76ff242f1eadcd03",
+       "human_readable_role_for_display": "Editor",
+       "id": 265732,
+       "iq": 220128,
+       "login": "Vesuvius",
+       "name": "Vesuvius",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Vesuvius",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.3148148148148148,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1299009",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1614193256",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1614193256",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1614193256",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1299009,
+       "iq": 761966,
+       "login": "gone_rubl_3383",
+       "name": "gone_rubl_3383",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/gone_rubl_3383",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.082010582010582,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/269182",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/5f579d275735b22510e0bc9a06171bde",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/5f579d275735b22510e0bc9a06171bde",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/5f579d275735b22510e0bc9a06171bde",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/5f579d275735b22510e0bc9a06171bde",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3GmrMEUaTVW5V3WEham0_Foto0079.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 269182,
+       "iq": 387430,
+       "login": "igordebraga",
+       "name": "\u200bigordebraga",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/igordebraga",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.06613756613756613,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/70799",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/RZcgEFJRrCL5O9T6xi4w.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/RZcgEFJRrCL5O9T6xi4w.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/RZcgEFJRrCL5O9T6xi4w.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/RZcgEFJRrCL5O9T6xi4w.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/RZcgEFJRrCL5O9T6xi4w.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 70799,
+       "iq": 85613,
+       "login": "ashleychittock",
+       "name": "Ashley Chittock",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/ashleychittock",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.03968253968253968,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1553",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e6bc971ca551f876d6b3e7237a069b95",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e6bc971ca551f876d6b3e7237a069b95",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e6bc971ca551f876d6b3e7237a069b95",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e6bc971ca551f876d6b3e7237a069b95",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/e6bc971ca551f876d6b3e7237a069b95",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1553,
+       "iq": 427809,
+       "login": "Avi",
+       "name": "Avi",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Avi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.018518518518518517,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1603328",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/98fd3350d7e66a87b9adc6df7331926a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e372f40ee0a6d090ffd11b4c5518a5a9.1000x370x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1603328,
+       "iq": 368134,
+       "login": "kingkillmonger",
+       "name": "\u029e|a\u00e7e|w\u0153|k",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/kingkillmonger",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.010582010582010581,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2481184",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/O8LXrnFqSgKnZ7yP4hA8_heythatsprettygood.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/O8LXrnFqSgKnZ7yP4hA8_heythatsprettygood.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/O8LXrnFqSgKnZ7yP4hA8_heythatsprettygood.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/O8LXrnFqSgKnZ7yP4hA8_heythatsprettygood.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lg3Jda9ZTBiDy3PQLFQ8_bg.jpg",
+       "human_readable_role_for_display": null,
+       "id": 2481184,
+       "iq": 192,
+       "login": "heythatsprettygood",
+       "name": "heythatsprettygood",
+       "role_for_display": null,
+       "url": "https://genius.com/heythatsprettygood",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005291005291005291,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2715219",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/93c8daeaa0c3d834eab79a2232834614",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/93c8daeaa0c3d834eab79a2232834614",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/93c8daeaa0c3d834eab79a2232834614",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/93c8daeaa0c3d834eab79a2232834614",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/93c8daeaa0c3d834eab79a2232834614",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2715219,
+       "iq": 5276,
+       "login": "melvin_starbrook",
+       "name": "melvin_starbrook",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/melvin_starbrook",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005291005291005291,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1973584",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d1834b0a1ea22de8fa6e96ac59bf61b5",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d1834b0a1ea22de8fa6e96ac59bf61b5",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d1834b0a1ea22de8fa6e96ac59bf61b5",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d1834b0a1ea22de8fa6e96ac59bf61b5",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/d1834b0a1ea22de8fa6e96ac59bf61b5",
+       "human_readable_role_for_display": "Editor",
+       "id": 1973584,
+       "iq": 335944,
+       "login": "bnhslr",
+       "name": "bnhslr",
+       "role_for_display": "editor",
+       "url": "https://genius.com/bnhslr",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.005291005291005291,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/10697712",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/3c7cd5b3d6f5d502cd8903a70f3d4899",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/3c7cd5b3d6f5d502cd8903a70f3d4899",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/3c7cd5b3d6f5d502cd8903a70f3d4899",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/3c7cd5b3d6f5d502cd8903a70f3d4899",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/bh79xiu2rrf",
+       "human_readable_role_for_display": null,
+       "id": 10697712,
+       "iq": 137,
+       "login": "clammyghost",
+       "name": "clammyghost",
+       "role_for_display": null,
+       "url": "https://genius.com/clammyghost",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0026455026455026454,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/130579",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/iKRdNr5hQfCLX2yvGBd6.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/iKRdNr5hQfCLX2yvGBd6.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 130579,
+       "iq": 8029,
+       "login": "IAintNoJoke",
+       "name": "IAintNoJoke",
+       "role_for_display": "editor",
+       "url": "https://genius.com/IAintNoJoke",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0026455026455026454,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3343130",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8b2104a4f61d297829015a6ecbbc0626",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8b2104a4f61d297829015a6ecbbc0626",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8b2104a4f61d297829015a6ecbbc0626",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8b2104a4f61d297829015a6ecbbc0626",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/8b2104a4f61d297829015a6ecbbc0626",
+       "human_readable_role_for_display": "Editor",
+       "id": 3343130,
+       "iq": 67823,
+       "login": "do-the-charleston",
+       "name": "do-the-charleston",
+       "role_for_display": "editor",
+       "url": "https://genius.com/do-the-charleston",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 25,
+   "api_path": "/songs/112817",
+   "full_title": "Space Oddity by\u00a0David\u00a0Bowie",
+   "header_image_thumbnail_url": "https://images.genius.com/5fbb02e11ce63961d2dbe4f5c783fc44.300x299x1.jpg",
+   "header_image_url": "https://images.genius.com/5fbb02e11ce63961d2dbe4f5c783fc44.600x597x1.jpg",
+   "id": 112817,
+   "lyrics_owner_id": 1553,
+   "lyrics_state": "complete",
+   "path": "/David-bowie-space-oddity-lyrics",
+   "pyongs_count": 77,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5fbb02e11ce63961d2dbe4f5c783fc44.300x299x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5fbb02e11ce63961d2dbe4f5c783fc44.600x597x1.jpg",
+   "stats": {
+    "accepted_annotations": 24,
+    "contributors": 112,
+    "iq_earners": 109,
+    "transcribers": 6,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 827899
+   },
+   "title": "Space Oddity",
+   "title_with_featured": "Space Oddity",
+   "url": "https://genius.com/David-bowie-space-oddity-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/9534",
+    "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+    "id": 9534,
+    "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "David Bowie",
+    "url": "https://genius.com/artists/David-bowie"
+   },
+   "apple_music_id": "696732453",
+   "apple_music_player_url": "https://genius.com/songs/112817/apple_music_player",
+   "description": {
+    "plain": "\u2018Major Tom\u2019 is a fictional character created by David Bowie for this song in 1969. That same year marked the first moon landing, so space was \u201cin\u201d; this was a year after Stanley Kubrick\u2019s film 2001: A Space Odyssey, co-written with Arthur C. Clarke.\n\nThe song is a \u201clost in space\u201d story, which generated later more songs and sequels about the character by David Bowie (\u201cAshes to Ashes\u201d and \u201cHallo Spaceboy\u201d) and even other artists (Peter Schilling\u2019s 1983 \u201cMajor Tom (coming home)\u201d, (K.I.A.\u2019s \u201cMrs Major Tom\u201d and possibly Elton John\u2019s \u201cRocket Man\u201d. The last one is also produced by Gus Dudgeon, who filled in for Bowie\u2019s usual collaborator Tony Visconti once he refused to work in \u201cSpace Oddity\u201d feeling it was a novelty song, a publicity stunt to cash in to the Apollo missions (\u201cthis is not \u2018Space Oddity\u2019, it\u2019s Ernie The Milkman\u201d).\n\nMany believe that the song describes a drug (heroin) trip, from \u201clift-off\u201d to \u201cfloating\u201d to being \u201cstill\u201d with \u201ccircuit\u2019s dead\u201d ending in \u201cnothing I can do\u201d."
+   },
+   "embed_content": "<div id='rg_embed_link_112817' class='rg_embed_link' data-song-id='112817'>Read <a href='https://genius.com/David-bowie-space-oddity-lyrics'>\u201cSpace Oddity\u201d by David\u00a0Bowie</a> on Genius</div> <script crossorigin src='//genius.com/songs/112817/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Trident Studios, London",
+   "release_date": "1969-07-11",
+   "release_date_for_display": "July 11, 1969",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/76477",
+    "cover_art_url": "https://images.genius.com/6755ffa8430c403b8cc3b5357688463f.1000x1000x1.jpg",
+    "full_title": "David Bowie/Space Oddity by David Bowie",
+    "id": 76477,
+    "name": "David Bowie/Space Oddity",
+    "url": "https://genius.com/albums/David-bowie/David-bowie-space-oddity",
+    "artist": {
+     "api_path": "/artists/9534",
+     "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+     "id": 9534,
+     "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Bowie",
+     "url": "https://genius.com/artists/David-bowie"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/1112945",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "id": 1112945,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "PRS",
+       "url": "https://genius.com/artists/Prs"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1625312",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "id": 1625312,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Onward Music",
+       "url": "https://genius.com/artists/Onward-music"
+      },
+      {
+       "api_path": "/artists/1676052",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "id": 1676052,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tro-Essex Music",
+       "url": "https://genius.com/artists/Tro-essex-music"
+      },
+      {
+       "api_path": "/artists/2300424",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "id": 2300424,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Westminster Music",
+       "url": "https://genius.com/artists/Westminster-music"
+      },
+      {
+       "api_path": "/artists/1585519",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "id": 1585519,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Essex Music",
+       "url": "https://genius.com/artists/Essex-music"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1026839",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "id": 1026839,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Barry Sheffield",
+       "url": "https://genius.com/artists/Barry-sheffield"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/839438",
+       "header_image_url": "https://images.genius.com/cc9cee1b487e6b5cdfab3a0deea67046.623x623x1.jpg",
+       "id": 839438,
+       "image_url": "https://images.genius.com/cc9cee1b487e6b5cdfab3a0deea67046.623x623x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Herbie Flowers",
+       "url": "https://genius.com/artists/Herbie-flowers"
+      }
+     ]
+    },
+    {
+     "label": "Lead Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/9534",
+       "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+       "id": 9534,
+       "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Bowie",
+       "url": "https://genius.com/artists/David-bowie"
+      }
+     ]
+    },
+    {
+     "label": "Harmony Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/9534",
+       "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+       "id": 9534,
+       "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Bowie",
+       "url": "https://genius.com/artists/David-bowie"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/9534",
+       "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+       "id": 9534,
+       "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Bowie",
+       "url": "https://genius.com/artists/David-bowie"
+      }
+     ]
+    },
+    {
+     "label": "Lead guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1026841",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "id": 1026841,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mick Wayne",
+       "url": "https://genius.com/artists/Mick-wayne"
+      }
+     ]
+    },
+    {
+     "label": "Stylophone",
+     "artists": [
+      {
+       "api_path": "/artists/9534",
+       "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+       "id": 9534,
+       "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Bowie",
+       "url": "https://genius.com/artists/David-bowie"
+      }
+     ]
+    },
+    {
+     "label": "Mellotron",
+     "artists": [
+      {
+       "api_path": "/artists/354342",
+       "header_image_url": "https://images.genius.com/a88c5f6df266effa8d0e567c869c151c.800x310x1.png",
+       "id": 354342,
+       "image_url": "https://images.genius.com/deca11ee9baeeb567f976a4d7291d205.324x324x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rick Wakeman",
+       "url": "https://genius.com/artists/Rick-wakeman"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1026840",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "id": 1026840,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Terry Cox",
+       "url": "https://genius.com/artists/Terry-cox"
+      }
+     ]
+    },
+    {
+     "label": "Arrangement",
+     "artists": [
+      {
+       "api_path": "/artists/651015",
+       "header_image_url": "https://images.genius.com/0372ce3cda840f79682ee491031964d5.720x720x1.jpg",
+       "id": 651015,
+       "image_url": "https://images.genius.com/0372ce3cda840f79682ee491031964d5.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paul Buckmaster",
+       "url": "https://genius.com/artists/Paul-buckmaster"
+      },
+      {
+       "api_path": "/artists/9534",
+       "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+       "id": 9534,
+       "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Bowie",
+       "url": "https://genius.com/artists/David-bowie"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1553,
+    "annotator_login": "Avi",
+    "api_path": "/referents/3688018",
+    "classification": "accepted",
+    "fragment": "Space Oddity",
+    "id": 3688018,
+    "is_description": true,
+    "path": "/3688018/David-bowie-space-oddity/Space-oddity",
+    "range": {
+     "content": "Space Oddity"
+    },
+    "song_id": 112817,
+    "url": "https://genius.com/3688018/David-bowie-space-oddity/Space-oddity",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/112817",
+     "client_timestamps": {
+      "updated_by_human_at": 1613028033,
+      "lyrics_updated_at": 1613028033
+     },
+     "context": "David Bowie",
+     "id": 112817,
+     "image_url": "https://images.genius.com/5fbb02e11ce63961d2dbe4f5c783fc44.600x597x1.jpg",
+     "link_title": "Space Oddity by\u00a0David\u00a0Bowie",
+     "title": "Space Oddity",
+     "type": "Song",
+     "url": "https://genius.com/David-bowie-space-oddity-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3688018",
+      "body": {
+       "plain": "\u2018Major Tom\u2019 is a fictional character created by David Bowie for this song in 1969. That same year marked the first moon landing, so space was \u201cin\u201d; this was a year after Stanley Kubrick\u2019s film 2001: A Space Odyssey, co-written with Arthur C. Clarke.\n\nThe song is a \u201clost in space\u201d story, which generated later more songs and sequels about the character by David Bowie (\u201cAshes to Ashes\u201d and \u201cHallo Spaceboy\u201d) and even other artists (Peter Schilling\u2019s 1983 \u201cMajor Tom (coming home)\u201d, (K.I.A.\u2019s \u201cMrs Major Tom\u201d and possibly Elton John\u2019s \u201cRocket Man\u201d. The last one is also produced by Gus Dudgeon, who filled in for Bowie\u2019s usual collaborator Tony Visconti once he refused to work in \u201cSpace Oddity\u201d feeling it was a novelty song, a publicity stunt to cash in to the Apollo missions (\u201cthis is not \u2018Space Oddity\u2019, it\u2019s Ernie The Milkman\u201d).\n\nMany believe that the song describes a drug (heroin) trip, from \u201clift-off\u201d to \u201cfloating\u201d to being \u201cstill\u201d with \u201ccircuit\u2019s dead\u201d ending in \u201cnothing I can do\u201d."
+      },
+      "comment_count": 4,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3688018,
+      "pinned": false,
+      "share_url": "https://genius.com/3688018",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3688018/David-bowie-space-oddity/Space-oddity",
+      "verified": false,
+      "votes_total": 176,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5930232558139535,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1553",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/e6bc971ca551f876d6b3e7237a069b95",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/e6bc971ca551f876d6b3e7237a069b95",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/e6bc971ca551f876d6b3e7237a069b95",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/e6bc971ca551f876d6b3e7237a069b95",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/e6bc971ca551f876d6b3e7237a069b95",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1553,
+         "iq": 427809,
+         "login": "Avi",
+         "name": "Avi",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Avi",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.2906976744186046,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/269182",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5f579d275735b22510e0bc9a06171bde",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5f579d275735b22510e0bc9a06171bde",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5f579d275735b22510e0bc9a06171bde",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5f579d275735b22510e0bc9a06171bde",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3GmrMEUaTVW5V3WEham0_Foto0079.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 269182,
+         "iq": 387430,
+         "login": "igordebraga",
+         "name": "\u200bigordebraga",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/igordebraga",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.06395348837209303,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/231011",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xwdrgra5fx",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xwdrgra5fx",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xwdrgra5fx",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xwdrgra5fx",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0457rb02n8ke",
+         "human_readable_role_for_display": "Editor",
+         "id": 231011,
+         "iq": 51626,
+         "login": "no_egrets",
+         "name": "no_egrets",
+         "role_for_display": "editor",
+         "url": "https://genius.com/no_egrets",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.029069767441860465,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2719019",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1614193256",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1614193256",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1614193256",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+         "human_readable_role_for_display": null,
+         "id": 2719019,
+         "iq": 19,
+         "login": "jaydro",
+         "name": "jaydro",
+         "role_for_display": null,
+         "url": "https://genius.com/jaydro",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.023255813953488372,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1774317",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/9fdd90368b8c7165e485f6962253ebc7",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/9fdd90368b8c7165e485f6962253ebc7",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/9fdd90368b8c7165e485f6962253ebc7",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/9fdd90368b8c7165e485f6962253ebc7",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/9fdd90368b8c7165e485f6962253ebc7",
+         "human_readable_role_for_display": null,
+         "id": 1774317,
+         "iq": 139,
+         "login": "neuphoria",
+         "name": "neuphoria",
+         "role_for_display": null,
+         "url": "https://genius.com/neuphoria",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=iYYRH4apXDo"
+    },
+    {
+     "native_uri": "spotify:track:72Z17vmmeQKAg8bptWvpVG",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/137172",
+     "header_image_url": "https://images.genius.com/7dc7305ce562785b78425955ed7cde09.212x212x1.jpg",
+     "id": 137172,
+     "image_url": "https://images.genius.com/7dc7305ce562785b78425955ed7cde09.212x212x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gus Dudgeon",
+     "url": "https://genius.com/artists/Gus-dudgeon"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1140799",
+       "full_title": "Space Oddity by\u00a0Tangerine\u00a0Dream",
+       "header_image_thumbnail_url": "https://images.genius.com/cad397e666dec62d7fd6447addecf316.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/cad397e666dec62d7fd6447addecf316.1000x1000x1.jpg",
+       "id": 1140799,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Tangerine-dream-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/cad397e666dec62d7fd6447addecf316.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cad397e666dec62d7fd6447addecf316.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Tangerine-dream-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/359892",
+        "header_image_url": "https://images.genius.com/4b89164d8e0bba3b5329a08a01396a7e.1000x563x1.jpg",
+        "id": 359892,
+        "image_url": "https://images.genius.com/f0300792ea2d11c9c6fd844665ba53f5.670x670x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tangerine Dream",
+        "url": "https://genius.com/artists/Tangerine-dream"
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/2132371",
+       "full_title": "Transmission by\u00a0Neil\u00a0Cicierega",
+       "header_image_thumbnail_url": "https://images.genius.com/302648bcb957843a30bb3132df87fc7e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/302648bcb957843a30bb3132df87fc7e.1000x1000x1.jpg",
+       "id": 2132371,
+       "lyrics_owner_id": 1818287,
+       "lyrics_state": "complete",
+       "path": "/Neil-cicierega-transmission-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/302648bcb957843a30bb3132df87fc7e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/302648bcb957843a30bb3132df87fc7e.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Transmission",
+       "title_with_featured": "Transmission",
+       "url": "https://genius.com/Neil-cicierega-transmission-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/384805",
+        "header_image_url": "https://images.genius.com/3d42c8897d5ad09240b232b9fe790293.500x375x1.jpg",
+        "id": 384805,
+        "image_url": "https://images.genius.com/3c6d01e64835f181877d6c36598bc8b7.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Neil Cicierega",
+        "url": "https://genius.com/artists/Neil-cicierega"
+       }
+      },
+      {
+       "annotation_count": 25,
+       "api_path": "/songs/2132444",
+       "full_title": "Numbers by\u00a0Neil\u00a0Cicierega",
+       "header_image_thumbnail_url": "https://images.genius.com/302648bcb957843a30bb3132df87fc7e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/302648bcb957843a30bb3132df87fc7e.1000x1000x1.jpg",
+       "id": 2132444,
+       "lyrics_owner_id": 1818287,
+       "lyrics_state": "complete",
+       "path": "/Neil-cicierega-numbers-lyrics",
+       "pyongs_count": 2,
+       "song_art_image_thumbnail_url": "https://images.genius.com/302648bcb957843a30bb3132df87fc7e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/302648bcb957843a30bb3132df87fc7e.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "Numbers",
+       "title_with_featured": "Numbers",
+       "url": "https://genius.com/Neil-cicierega-numbers-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/384805",
+        "header_image_url": "https://images.genius.com/3d42c8897d5ad09240b232b9fe790293.500x375x1.jpg",
+        "id": 384805,
+        "image_url": "https://images.genius.com/3c6d01e64835f181877d6c36598bc8b7.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Neil Cicierega",
+        "url": "https://genius.com/artists/Neil-cicierega"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3919446",
+       "full_title": "Calling by\u00a0XTincT",
+       "header_image_thumbnail_url": "https://images.genius.com/664882ea19200d5ea0b46f4093f8edca.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/664882ea19200d5ea0b46f4093f8edca.1000x563x1.jpg",
+       "id": 3919446,
+       "lyrics_owner_id": 6892518,
+       "lyrics_state": "complete",
+       "path": "/Xtinct-calling-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/7725c002320b3b1eec4ac48b54e44077.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7725c002320b3b1eec4ac48b54e44077.960x960x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Calling",
+       "title_with_featured": "Calling",
+       "url": "https://genius.com/Xtinct-calling-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1562336",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+        "id": 1562336,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "XTincT",
+        "url": "https://genius.com/artists/Xtinct"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4957624",
+       "full_title": "JUST MEGAMASHUP by\u00a0DaymanOurSavior",
+       "header_image_thumbnail_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+       "header_image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+       "id": 4957624,
+       "lyrics_owner_id": 8942631,
+       "lyrics_state": "complete",
+       "path": "/Daymanoursavior-just-megamashup-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "JUST MEGAMASHUP",
+       "title_with_featured": "JUST MEGAMASHUP",
+       "url": "https://genius.com/Daymanoursavior-just-megamashup-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1409018",
+        "header_image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+        "id": 1409018,
+        "image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DaymanOurSavior",
+        "url": "https://genius.com/artists/Daymanoursavior"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6023984",
+       "full_title": "Blue Is Sus by\u00a0Flex\u00a0Gordon (Ft.\u00a0Gloom)",
+       "header_image_thumbnail_url": "https://images.genius.com/10cf33b822b20b2828d3c2ad21ecb983.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/10cf33b822b20b2828d3c2ad21ecb983.1000x1000x1.jpg",
+       "id": 6023984,
+       "lyrics_owner_id": 6987584,
+       "lyrics_state": "complete",
+       "path": "/Flex-gordon-blue-is-sus-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/10cf33b822b20b2828d3c2ad21ecb983.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/10cf33b822b20b2828d3c2ad21ecb983.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Blue Is Sus",
+       "title_with_featured": "Blue Is Sus (Ft.\u00a0Gloom)",
+       "url": "https://genius.com/Flex-gordon-blue-is-sus-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2420998",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+        "id": 2420998,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Flex Gordon",
+        "url": "https://genius.com/artists/Flex-gordon"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/80139",
+       "full_title": "Major Tom by\u00a0Peter\u00a0Schilling",
+       "header_image_thumbnail_url": "https://images.genius.com/c6a5ed0b7b20637b2c3eed83f2272fa6.300x279x1.jpg",
+       "header_image_url": "https://images.genius.com/c6a5ed0b7b20637b2c3eed83f2272fa6.500x465x1.jpg",
+       "id": 80139,
+       "lyrics_owner_id": 27148,
+       "lyrics_state": "complete",
+       "path": "/Peter-schilling-major-tom-lyrics",
+       "pyongs_count": 10,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c6a5ed0b7b20637b2c3eed83f2272fa6.300x279x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c6a5ed0b7b20637b2c3eed83f2272fa6.500x465x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 151158
+       },
+       "title": "Major Tom",
+       "title_with_featured": "Major Tom",
+       "url": "https://genius.com/Peter-schilling-major-tom-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/22237",
+        "header_image_url": "https://images.genius.com/37f9e9def057558cd43101f9ac8e7d30.829x1000x1.jpg",
+        "id": 22237,
+        "image_url": "https://images.genius.com/37f9e9def057558cd43101f9ac8e7d30.829x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Peter Schilling",
+        "url": "https://genius.com/artists/Peter-schilling"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/663570",
+       "full_title": "Walter by\u00a0Heath\u00a0McNease",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/18b821b62a61c9365aad3468db0280ae.300x450x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/18b821b62a61c9365aad3468db0280ae.667x1000x1.jpg",
+       "id": 663570,
+       "lyrics_owner_id": 395357,
+       "lyrics_state": "complete",
+       "path": "/Heath-mcnease-walter-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/18b821b62a61c9365aad3468db0280ae.300x450x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/18b821b62a61c9365aad3468db0280ae.667x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Walter",
+       "title_with_featured": "Walter",
+       "url": "https://genius.com/Heath-mcnease-walter-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/38721",
+        "header_image_url": "https://images.genius.com/a1fb6b0830daf9ed1c92b038fd91e154.512x512x1.jpg",
+        "id": 38721,
+        "image_url": "https://images.genius.com/a1fb6b0830daf9ed1c92b038fd91e154.512x512x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Heath McNease",
+        "url": "https://genius.com/artists/Heath-mcnease"
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/1091774",
+       "full_title": "Star Fox: Space Oddity by\u00a0\u200bbrentalfloss",
+       "header_image_thumbnail_url": "https://images.genius.com/c1f793077d39a7c9c7ea2315cd91f67b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c1f793077d39a7c9c7ea2315cd91f67b.1000x1000x1.jpg",
+       "id": 1091774,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Brentalfloss-star-fox-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c1f793077d39a7c9c7ea2315cd91f67b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c1f793077d39a7c9c7ea2315cd91f67b.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "Star Fox: Space Oddity",
+       "title_with_featured": "Star Fox: Space Oddity",
+       "url": "https://genius.com/Brentalfloss-star-fox-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/9622",
+        "header_image_url": "https://images.genius.com/0f44081d3466aa0f3f8f6eb35d2f54c1.628x628x1.jpg",
+        "id": 9622,
+        "image_url": "https://images.genius.com/8d89633b0cd036197e7bc0e534cc2f12.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u200bbrentalfloss",
+        "url": "https://genius.com/artists/Brentalfloss"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1137519",
+       "full_title": "Space Station Oddity by\u00a0Bob\u00a0Rivers",
+       "header_image_thumbnail_url": "https://images.genius.com/ad1b90160e97953b75ff673cdc146e08.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ad1b90160e97953b75ff673cdc146e08.720x720x1.jpg",
+       "id": 1137519,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Bob-rivers-space-station-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/ad1b90160e97953b75ff673cdc146e08.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ad1b90160e97953b75ff673cdc146e08.720x720x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Station Oddity",
+       "title_with_featured": "Space Station Oddity",
+       "url": "https://genius.com/Bob-rivers-space-station-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/358130",
+        "header_image_url": "https://images.genius.com/f7b320e5d8feef245e28c7441550b695.225x225x1.jpg",
+        "id": 358130,
+        "image_url": "https://images.genius.com/f7b320e5d8feef245e28c7441550b695.225x225x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bob Rivers",
+        "url": "https://genius.com/artists/Bob-rivers"
+       }
+      },
+      {
+       "annotation_count": 10,
+       "api_path": "/songs/1142484",
+       "full_title": "Major Tom by\u00a0Shiny\u00a0Toy Guns",
+       "header_image_thumbnail_url": "https://images.genius.com/72a98569d0463960f85cb8a1eefa4480.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/72a98569d0463960f85cb8a1eefa4480.640x640x1.jpg",
+       "id": 1142484,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Shiny-toy-guns-major-tom-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/72a98569d0463960f85cb8a1eefa4480.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/72a98569d0463960f85cb8a1eefa4480.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 10,
+        "hot": false
+       },
+       "title": "Major Tom",
+       "title_with_featured": "Major Tom",
+       "url": "https://genius.com/Shiny-toy-guns-major-tom-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/346436",
+        "header_image_url": "https://images.genius.com/41f457a6614b115a534ec116c1e8165a.300x300x1.jpg",
+        "id": 346436,
+        "image_url": "https://images.genius.com/9a411b02c776e1a4d305941078823543.300x300x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Shiny Toy Guns",
+        "url": "https://genius.com/artists/Shiny-toy-guns"
+       }
+      },
+      {
+       "annotation_count": 14,
+       "api_path": "/songs/1779921",
+       "full_title": "Brows Held High: The Man Who Fell to Earth by\u00a0Kyle\u00a0Kallgren (Ft.\u00a0Allison\u00a0Pregler, JewWario, The\u00a0Nostalgia Chick & Todd\u00a0in the Shadows)",
+       "header_image_thumbnail_url": "https://images.genius.com/7c9184749bcae51f9c0f8d8165117be2.300x133x1.jpg",
+       "header_image_url": "https://images.genius.com/7c9184749bcae51f9c0f8d8165117be2.620x274x1.jpg",
+       "id": 1779921,
+       "lyrics_owner_id": 269182,
+       "lyrics_state": "complete",
+       "path": "/Kyle-kallgren-brows-held-high-the-man-who-fell-to-earth-annotated",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/7c9184749bcae51f9c0f8d8165117be2.300x133x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7c9184749bcae51f9c0f8d8165117be2.620x274x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Brows Held High: The Man Who Fell to Earth",
+       "title_with_featured": "Brows Held High: The Man Who Fell to Earth (Ft.\u00a0Allison\u00a0Pregler, JewWario, The\u00a0Nostalgia Chick & Todd\u00a0in the Shadows)",
+       "url": "https://genius.com/Kyle-kallgren-brows-held-high-the-man-who-fell-to-earth-annotated",
+       "primary_artist": {
+        "api_path": "/artists/65906",
+        "header_image_url": "https://images.genius.com/558c4296562cd9cecde9894753575355.980x400x1.png",
+        "id": 65906,
+        "image_url": "https://images.genius.com/10bd41a3be3de3cb0a223747df36d09c.300x300x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kyle Kallgren",
+        "url": "https://genius.com/artists/Kyle-kallgren"
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/1797155",
+       "full_title": "Hallo Spaceboy (Pet Shop Boys Remix) by\u00a0David\u00a0Bowie",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/d4ea7fc32f574b666363e2d72e0acbbb.300x298x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/d4ea7fc32f574b666363e2d72e0acbbb.302x300x1.jpg",
+       "id": 1797155,
+       "lyrics_owner_id": 1973584,
+       "lyrics_state": "complete",
+       "path": "/David-bowie-hallo-spaceboy-pet-shop-boys-remix-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/d4ea7fc32f574b666363e2d72e0acbbb.300x298x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/d4ea7fc32f574b666363e2d72e0acbbb.302x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Hallo Spaceboy (Pet Shop Boys Remix)",
+       "title_with_featured": "Hallo Spaceboy (Pet Shop Boys Remix)",
+       "url": "https://genius.com/David-bowie-hallo-spaceboy-pet-shop-boys-remix-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/9534",
+        "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+        "id": 9534,
+        "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "David Bowie",
+        "url": "https://genius.com/artists/David-bowie"
+       }
+      },
+      {
+       "annotation_count": 13,
+       "api_path": "/songs/2152419",
+       "full_title": "Buddha of Suburbia by\u00a0David\u00a0Bowie",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/bf8bb98d00bd93c74b5f54875bd59aa2.300x300x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/bf8bb98d00bd93c74b5f54875bd59aa2.500x500x1.jpg",
+       "id": 2152419,
+       "lyrics_owner_id": 1866778,
+       "lyrics_state": "complete",
+       "path": "/David-bowie-buddha-of-suburbia-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/bf8bb98d00bd93c74b5f54875bd59aa2.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/bf8bb98d00bd93c74b5f54875bd59aa2.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 9,
+        "hot": false,
+        "pageviews": 5391
+       },
+       "title": "Buddha of Suburbia",
+       "title_with_featured": "Buddha of Suburbia",
+       "url": "https://genius.com/David-bowie-buddha-of-suburbia-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/9534",
+        "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+        "id": 9534,
+        "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "David Bowie",
+        "url": "https://genius.com/artists/David-bowie"
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/2286540",
+       "full_title": "Terrence Loves You by\u00a0Lana\u00a0Del Rey",
+       "header_image_thumbnail_url": "https://images.genius.com/3b1b2492f186f08b3f33352a440e5a44.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/3b1b2492f186f08b3f33352a440e5a44.1000x563x1.jpg",
+       "id": 2286540,
+       "lyrics_owner_id": 672397,
+       "lyrics_state": "complete",
+       "path": "/Lana-del-rey-terrence-loves-you-lyrics",
+       "pyongs_count": 43,
+       "song_art_image_thumbnail_url": "https://images.genius.com/52fa7070e7816c002e5ece9d1814a864.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/52fa7070e7816c002e5ece9d1814a864.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 280276
+       },
+       "title": "Terrence Loves You",
+       "title_with_featured": "Terrence Loves You",
+       "url": "https://genius.com/Lana-del-rey-terrence-loves-you-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/15740",
+        "header_image_url": "https://images.genius.com/e7730129cae1be2f793943a8b7c6907e.1000x990x1.jpg",
+        "id": 15740,
+        "image_url": "https://images.genius.com/70bec6d687ebb59fcefeb4a5701c2533.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lana Del Rey",
+        "url": "https://genius.com/artists/Lana-del-rey"
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/2955310",
+       "full_title": "Mine Oddity by\u00a0MineCraft\u00a0Awesome Parodys",
+       "header_image_thumbnail_url": "https://images.genius.com/d579169f934543dcec8d57d75579bf7a.203x203x1.png",
+       "header_image_url": "https://images.genius.com/d579169f934543dcec8d57d75579bf7a.203x203x1.png",
+       "id": 2955310,
+       "lyrics_owner_id": 4177901,
+       "lyrics_state": "complete",
+       "path": "/Minecraft-awesome-parodys-mine-oddity-annotated",
+       "pyongs_count": 8,
+       "song_art_image_thumbnail_url": "https://images.genius.com/d579169f934543dcec8d57d75579bf7a.203x203x1.png",
+       "song_art_image_url": "https://images.genius.com/d579169f934543dcec8d57d75579bf7a.203x203x1.png",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 31422
+       },
+       "title": "Mine Oddity",
+       "title_with_featured": "Mine Oddity",
+       "url": "https://genius.com/Minecraft-awesome-parodys-mine-oddity-annotated",
+       "primary_artist": {
+        "api_path": "/artists/1058740",
+        "header_image_url": "https://images.genius.com/67f53502515a89ee0e5afee547041242.1000x562x1.jpg",
+        "id": 1058740,
+        "image_url": "https://images.genius.com/5bd154612eaf8685222ea8b1780982fe.512x512x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "MineCraft Awesome Parodys",
+        "url": "https://genius.com/artists/Minecraft-awesome-parodys"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5184433",
+       "full_title": "Buddha of Suburbia (feat. Lenny Kravitz) by\u00a0David\u00a0Bowie (Ft.\u00a0Lenny\u00a0Kravitz)",
+       "header_image_thumbnail_url": "https://images.genius.com/25b2cc4a693b637075c1fba10b44b35b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/25b2cc4a693b637075c1fba10b44b35b.900x900x1.jpg",
+       "id": 5184433,
+       "lyrics_owner_id": 1973584,
+       "lyrics_state": "complete",
+       "path": "/David-bowie-buddha-of-suburbia-feat-lenny-kravitz-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/25b2cc4a693b637075c1fba10b44b35b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/25b2cc4a693b637075c1fba10b44b35b.900x900x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Buddha of Suburbia (feat. Lenny Kravitz)",
+       "title_with_featured": "Buddha of Suburbia (feat. Lenny Kravitz) (Ft.\u00a0Lenny\u00a0Kravitz)",
+       "url": "https://genius.com/David-bowie-buddha-of-suburbia-feat-lenny-kravitz-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/9534",
+        "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+        "id": 9534,
+        "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "David Bowie",
+        "url": "https://genius.com/artists/David-bowie"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5940725",
+       "full_title": "JQA to Agent Tom by\u00a0JQA",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1614193256",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1614193256",
+       "id": 5940725,
+       "lyrics_owner_id": 7095348,
+       "lyrics_state": "complete",
+       "path": "/Jqa-jqa-to-agent-tom-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1614193256",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1614193256",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "JQA to Agent Tom",
+       "title_with_featured": "JQA to Agent Tom",
+       "url": "https://genius.com/Jqa-jqa-to-agent-tom-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2502804",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+        "id": 2502804,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "JQA",
+        "url": "https://genius.com/artists/Jqa"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/473963",
+       "full_title": "Space Oddity by\u00a0Puddles\u00a0Pity Party",
+       "header_image_thumbnail_url": "https://images.genius.com/390f3d54c2ce1eb1f1488eda93285824.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/390f3d54c2ce1eb1f1488eda93285824.1000x1000x1.jpg",
+       "id": 473963,
+       "lyrics_owner_id": 269182,
+       "lyrics_state": "complete",
+       "path": "/Puddles-pity-party-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/390f3d54c2ce1eb1f1488eda93285824.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/390f3d54c2ce1eb1f1488eda93285824.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Puddles-pity-party-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/484373",
+        "header_image_url": "https://images.genius.com/390f3d54c2ce1eb1f1488eda93285824.1000x1000x1.jpg",
+        "id": 484373,
+        "image_url": "https://images.genius.com/390f3d54c2ce1eb1f1488eda93285824.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Puddles Pity Party",
+        "url": "https://genius.com/artists/Puddles-pity-party"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/522281",
+       "full_title": "Space Oddity by\u00a0Happy\u00a0Rhodes",
+       "header_image_thumbnail_url": "https://images.genius.com/49ccb67ce8a772d0f00e00e47269874a.238x238x1.jpg",
+       "header_image_url": "https://images.genius.com/49ccb67ce8a772d0f00e00e47269874a.238x238x1.jpg",
+       "id": 522281,
+       "lyrics_owner_id": 269182,
+       "lyrics_state": "complete",
+       "path": "/Happy-rhodes-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/49ccb67ce8a772d0f00e00e47269874a.238x238x1.jpg",
+       "song_art_image_url": "https://images.genius.com/49ccb67ce8a772d0f00e00e47269874a.238x238x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Happy-rhodes-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/159303",
+        "header_image_url": "https://images.genius.com/30be2d5f9f7fd150100859b23fc2a073.1000x563x1.jpg",
+        "id": 159303,
+        "image_url": "https://images.genius.com/49ccb67ce8a772d0f00e00e47269874a.238x238x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Happy Rhodes",
+        "url": "https://genius.com/artists/Happy-rhodes"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1139344",
+       "full_title": "Space Oddity by\u00a0William\u00a0Shatner (Ft.\u00a0Candice\u00a0Night & Ritchie\u00a0Blackmore)",
+       "header_image_thumbnail_url": "https://images.genius.com/8ec44e870e41237883cb30aef0d05550.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8ec44e870e41237883cb30aef0d05550.660x660x1.jpg",
+       "id": 1139344,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/William-shatner-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/8ec44e870e41237883cb30aef0d05550.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8ec44e870e41237883cb30aef0d05550.660x660x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity (Ft.\u00a0Candice\u00a0Night & Ritchie\u00a0Blackmore)",
+       "url": "https://genius.com/William-shatner-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/227106",
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/capt-kirk_yellowCU-001_1196284873.jpg",
+        "id": 227106,
+        "image_url": "https://s3.amazonaws.com/rapgenius/capt-kirk_yellowCU-001_1196284873.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "William Shatner",
+        "url": "https://genius.com/artists/William-shatner"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1176170",
+       "full_title": "Space Oddity by\u00a0Gabrielle\u00a0Aplin",
+       "header_image_thumbnail_url": "https://images.genius.com/2937329adfd36f45c0a71f508e1a2db0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2937329adfd36f45c0a71f508e1a2db0.667x667x1.jpg",
+       "id": 1176170,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Gabrielle-aplin-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2937329adfd36f45c0a71f508e1a2db0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2937329adfd36f45c0a71f508e1a2db0.667x667x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Gabrielle-aplin-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/50879",
+        "header_image_url": "https://images.genius.com/91916cf86e4b87f02303de11278b7b35.1000x1000x1.jpg",
+        "id": 50879,
+        "image_url": "https://images.genius.com/2937329adfd36f45c0a71f508e1a2db0.667x667x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Gabrielle Aplin",
+        "url": "https://genius.com/artists/Gabrielle-aplin"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1223741",
+       "full_title": "Space Oddity by\u00a0Helloween",
+       "header_image_thumbnail_url": "https://images.genius.com/256dd5203d3e7758607d11f0ee2fe413.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/256dd5203d3e7758607d11f0ee2fe413.1000x1000x1.jpg",
+       "id": 1223741,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Helloween-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/256dd5203d3e7758607d11f0ee2fe413.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/256dd5203d3e7758607d11f0ee2fe413.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Helloween-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/30376",
+        "header_image_url": "https://images.genius.com/78bf68c312be96c13c0d91c6809c135e.800x310x1.png",
+        "id": 30376,
+        "image_url": "https://images.genius.com/b8ac518fb9ef253c340800f9b7ea22d9.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Helloween",
+        "url": "https://genius.com/artists/Helloween"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1240839",
+       "full_title": "Space Oddity by\u00a0Ayreon",
+       "header_image_thumbnail_url": "https://images.genius.com/e5fd83933fd8903dbbe0175ff1a402f7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e5fd83933fd8903dbbe0175ff1a402f7.640x640x1.jpg",
+       "id": 1240839,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Ayreon-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/e5fd83933fd8903dbbe0175ff1a402f7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e5fd83933fd8903dbbe0175ff1a402f7.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Ayreon-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/172390",
+        "header_image_url": "https://images.genius.com/cb0d8adfff074dfa747f1dbef2e97e1a.430x159x1.jpg",
+        "id": 172390,
+        "image_url": "https://images.genius.com/e5fd83933fd8903dbbe0175ff1a402f7.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ayreon",
+        "url": "https://genius.com/artists/Ayreon"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1271640",
+       "full_title": "Space Oddity by\u00a0The\u00a0Smashing Pumpkins",
+       "header_image_thumbnail_url": "https://images.genius.com/5f477e907026f73b33cd67c4312b313b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5f477e907026f73b33cd67c4312b313b.646x646x1.jpg",
+       "id": 1271640,
+       "lyrics_owner_id": 269182,
+       "lyrics_state": "complete",
+       "path": "/The-smashing-pumpkins-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/5f477e907026f73b33cd67c4312b313b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5f477e907026f73b33cd67c4312b313b.646x646x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/The-smashing-pumpkins-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/12025",
+        "header_image_url": "https://images.genius.com/5eff1723805c9fcbf0b7aed8dc8d5030.969x969x1.jpg",
+        "id": 12025,
+        "image_url": "https://images.genius.com/5f477e907026f73b33cd67c4312b313b.646x646x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Smashing Pumpkins",
+        "url": "https://genius.com/artists/The-smashing-pumpkins"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1297751",
+       "full_title": "Space Oddity by\u00a0Collide",
+       "header_image_thumbnail_url": "https://images.genius.com/5913c507badb75eca13e60f15715e14a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5913c507badb75eca13e60f15715e14a.1000x1000x1.jpg",
+       "id": 1297751,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Collide-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/5913c507badb75eca13e60f15715e14a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5913c507badb75eca13e60f15715e14a.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Collide-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/358181",
+        "header_image_url": "https://images.genius.com/f0ea6816e478231620a2a4c49efec30c.1000x200x1.jpg",
+        "id": 358181,
+        "image_url": "https://images.genius.com/1c1bb80fce941b60c51dc5c19d9c2a54.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Collide",
+        "url": "https://genius.com/artists/Collide"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1385771",
+       "full_title": "Space Oddity by\u00a0Cold",
+       "header_image_thumbnail_url": "https://images.genius.com/9b3410ee77f76ee0bbef9598191ee6bc.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9b3410ee77f76ee0bbef9598191ee6bc.450x450x1.jpg",
+       "id": 1385771,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Cold-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/9b3410ee77f76ee0bbef9598191ee6bc.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9b3410ee77f76ee0bbef9598191ee6bc.450x450x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Cold-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/161176",
+        "header_image_url": "https://images.genius.com/b005b487bcae195d0ea6c2cd780fa243.1000x563x1.jpg",
+        "id": 161176,
+        "image_url": "https://images.genius.com/1541cb9f401fa2b84f346ec77066ff72.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cold",
+        "url": "https://genius.com/artists/Cold"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1442929",
+       "full_title": "Space Oddity by\u00a0Natalie\u00a0Merchant",
+       "header_image_thumbnail_url": "https://images.genius.com/9702d153975a479a80624c66e1194145.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9702d153975a479a80624c66e1194145.1000x1000x1.jpg",
+       "id": 1442929,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Natalie-merchant-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/9702d153975a479a80624c66e1194145.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9702d153975a479a80624c66e1194145.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Natalie-merchant-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/36234",
+        "header_image_url": "https://images.genius.com/e578c235f0fe8fe09c6769c89100d17f.1000x407x1.jpg",
+        "id": 36234,
+        "image_url": "https://images.genius.com/9702d153975a479a80624c66e1194145.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Natalie Merchant",
+        "url": "https://genius.com/artists/Natalie-merchant"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1609588",
+       "full_title": "Space Oddity (Cover) by\u00a0Passenger",
+       "header_image_thumbnail_url": "https://images.genius.com/fe697f463d04646b51e910e80c82b3d5.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/fe697f463d04646b51e910e80c82b3d5.1000x1000x1.jpg",
+       "id": 1609588,
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Passenger-space-oddity-cover-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/fe697f463d04646b51e910e80c82b3d5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fe697f463d04646b51e910e80c82b3d5.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity (Cover)",
+       "title_with_featured": "Space Oddity (Cover)",
+       "url": "https://genius.com/Passenger-space-oddity-cover-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/44274",
+        "header_image_url": "https://images.genius.com/411d183548efedffa221cf5bb52378ba.1000x667x1.jpg",
+        "id": 44274,
+        "image_url": "https://images.genius.com/add0d6b7ea08d29620adab1fe65d2ef8.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Passenger",
+        "url": "https://genius.com/artists/Passenger",
+        "iq": 167
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1610206",
+       "full_title": "Space Oddity by\u00a0Powerman\u00a05000",
+       "header_image_thumbnail_url": "https://images.genius.com/29ebc9801d955032af024c5c4b2add3b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/29ebc9801d955032af024c5c4b2add3b.500x500x1.jpg",
+       "id": 1610206,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Powerman-5000-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/29ebc9801d955032af024c5c4b2add3b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/29ebc9801d955032af024c5c4b2add3b.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Powerman-5000-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/356088",
+        "header_image_url": "https://images.genius.com/8246ebdc94559928145524f55556f1a3.400x267x1.jpg",
+        "id": 356088,
+        "image_url": "https://images.genius.com/b98aa1354153009687c04a2e64d05757.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Powerman 5000",
+        "url": "https://genius.com/artists/Powerman-5000"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1664882",
+       "full_title": "Space Oddity by\u00a0Arjen\u00a0Anthony Lucassen's Star One",
+       "header_image_thumbnail_url": "https://images.genius.com/11df3cf99467f5fa7a2c02793788b6a5.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/11df3cf99467f5fa7a2c02793788b6a5.500x500x1.jpg",
+       "id": 1664882,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Arjen-anthony-lucassens-star-one-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/11df3cf99467f5fa7a2c02793788b6a5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/11df3cf99467f5fa7a2c02793788b6a5.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Arjen-anthony-lucassens-star-one-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2282582",
+        "header_image_url": "https://images.genius.com/fa9fad8277fc6696af1c911a670a535e.600x450x1.jpg",
+        "id": 2282582,
+        "image_url": "https://images.genius.com/92705e357fa48f311263ae5cac824b87.416x416x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Arjen Anthony Lucassen\u2019s Star One",
+        "url": "https://genius.com/artists/Arjen-anthony-lucassens-star-one"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1988342",
+       "full_title": "Ground Control to Major Tom by\u00a0Michael\u00a0John Hall",
+       "header_image_thumbnail_url": "https://images.genius.com/1109ccebb2b97725119aa3627bc61e33.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1109ccebb2b97725119aa3627bc61e33.500x500x1.jpg",
+       "id": 1988342,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Michael-john-hall-ground-control-to-major-tom-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/1109ccebb2b97725119aa3627bc61e33.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1109ccebb2b97725119aa3627bc61e33.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Ground Control to Major Tom",
+       "title_with_featured": "Ground Control to Major Tom",
+       "url": "https://genius.com/Michael-john-hall-ground-control-to-major-tom-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2118233",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+        "id": 2118233,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Michael John Hall",
+        "url": "https://genius.com/artists/Michael-john-hall"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1998689",
+       "full_title": "Space Oddity by\u00a0Mike\u00a0Masse (Ft.\u00a0Jeff\u00a0Hall)",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1614193256",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1614193256",
+       "id": 1998689,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Mike-masse-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1614193256",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1614193256",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity (Ft.\u00a0Jeff\u00a0Hall)",
+       "url": "https://genius.com/Mike-masse-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/679310",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+        "id": 679310,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614193256",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Mike Masse",
+        "url": "https://genius.com/artists/Mike-masse"
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/2115910",
+       "full_title": "Space Oddity by\u00a0Chris\u00a0Hadfield",
+       "header_image_thumbnail_url": "https://images.genius.com/9d9a6bfeec1720eb2f47864fab47da17.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9d9a6bfeec1720eb2f47864fab47da17.1000x1000x1.jpg",
+       "id": 2115910,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Chris-hadfield-space-oddity-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/9d9a6bfeec1720eb2f47864fab47da17.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9d9a6bfeec1720eb2f47864fab47da17.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 8332
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Chris-hadfield-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/348659",
+        "header_image_url": "https://images.genius.com/bcfd468992f8860d0b03934309f1806f.800x800x1.jpg",
+        "id": 348659,
+        "image_url": "https://images.genius.com/bcfd468992f8860d0b03934309f1806f.800x800x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Chris Hadfield",
+        "url": "https://genius.com/artists/Chris-hadfield"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2224181",
+       "full_title": "Space Oddity by\u00a0Langley\u00a0Schools Music Project",
+       "header_image_thumbnail_url": "https://images.genius.com/a3e4f456498b7934646e002f7c3a58a7.298x298x1.jpg",
+       "header_image_url": "https://images.genius.com/a3e4f456498b7934646e002f7c3a58a7.298x298x1.jpg",
+       "id": 2224181,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Langley-schools-music-project-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/a3e4f456498b7934646e002f7c3a58a7.298x298x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a3e4f456498b7934646e002f7c3a58a7.298x298x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Langley-schools-music-project-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/529952",
+        "header_image_url": "https://images.genius.com/451b8b012854f20f8250c33373b2e13d.300x300x1.jpg",
+        "id": 529952,
+        "image_url": "https://images.genius.com/451b8b012854f20f8250c33373b2e13d.300x300x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Langley Schools Music Project",
+        "url": "https://genius.com/artists/Langley-schools-music-project"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2232988",
+       "full_title": "Space Oddity by\u00a0Steven\u00a0Wilson",
+       "header_image_thumbnail_url": "https://images.genius.com/70142cf55a797e07c7d4e49b79354847.300x300x1.png",
+       "header_image_url": "https://images.genius.com/70142cf55a797e07c7d4e49b79354847.510x510x1.png",
+       "id": 2232988,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Steven-wilson-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/70142cf55a797e07c7d4e49b79354847.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/70142cf55a797e07c7d4e49b79354847.510x510x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Steven-wilson-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/114381",
+        "header_image_url": "https://images.genius.com/c6f23b95c7aaadfa5f9ff597233ace0e.628x576x1.png",
+        "id": 114381,
+        "image_url": "https://images.genius.com/70142cf55a797e07c7d4e49b79354847.510x510x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Steven Wilson",
+        "url": "https://genius.com/artists/Steven-wilson"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2475017",
+       "full_title": "Space Oddity (Lido's Salute To David Bowie) by\u00a0Lido",
+       "header_image_thumbnail_url": "https://images.genius.com/a436d70ffa0b848aab025f468119c723.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a436d70ffa0b848aab025f468119c723.500x500x1.jpg",
+       "id": 2475017,
+       "lyrics_owner_id": 3250051,
+       "lyrics_state": "complete",
+       "path": "/Lido-space-oddity-lidos-salute-to-david-bowie-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/a436d70ffa0b848aab025f468119c723.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a436d70ffa0b848aab025f468119c723.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity (Lido\u2019s Salute To David Bowie)",
+       "title_with_featured": "Space Oddity (Lido's Salute To David Bowie)",
+       "url": "https://genius.com/Lido-space-oddity-lidos-salute-to-david-bowie-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/20576",
+        "header_image_url": "https://images.genius.com/5fc6f40a3328094be84b0184e28db680.667x1000x1.jpg",
+        "id": 20576,
+        "image_url": "https://images.genius.com/b9eb5ad6524d2f1f033a413234336cde.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lido",
+        "url": "https://genius.com/artists/Lido",
+        "iq": 1792
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2669942",
+       "full_title": "Space Oddity by\u00a0David\u00a0Matthews",
+       "header_image_thumbnail_url": "https://images.genius.com/96d7edbfdcf09fa37d9cc1ae0098deba.300x304x1.jpg",
+       "header_image_url": "https://images.genius.com/96d7edbfdcf09fa37d9cc1ae0098deba.600x607x1.jpg",
+       "id": 2669942,
+       "lyrics_owner_id": 3098888,
+       "lyrics_state": "complete",
+       "path": "/David-matthews-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/96d7edbfdcf09fa37d9cc1ae0098deba.300x304x1.jpg",
+       "song_art_image_url": "https://images.genius.com/96d7edbfdcf09fa37d9cc1ae0098deba.600x607x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/David-matthews-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/839195",
+        "header_image_url": "https://images.genius.com/1c5982f5f29009a610d6454334a03a9d.307x164x1.jpg",
+        "id": 839195,
+        "image_url": "https://images.genius.com/972afaaba02ad222713435c6c0951db5.286x286x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "David Matthews",
+        "url": "https://genius.com/artists/David-matthews"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2894593",
+       "full_title": "Space Oddity by\u00a0The\u00a0Flaming Lips",
+       "header_image_thumbnail_url": "https://images.genius.com/1112c01b62b857cbe27afe9622df3412.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1112c01b62b857cbe27afe9622df3412.1000x1000x1.jpg",
+       "id": 2894593,
+       "lyrics_owner_id": 3264970,
+       "lyrics_state": "complete",
+       "path": "/The-flaming-lips-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/1112c01b62b857cbe27afe9622df3412.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1112c01b62b857cbe27afe9622df3412.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/The-flaming-lips-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/18738",
+        "header_image_url": "https://images.genius.com/cb473a784d9292391d81c570a2b36ffc.1000x165x1.jpg",
+        "id": 18738,
+        "image_url": "https://images.genius.com/1873c4f5af0b2c256fdf5a019310bea7.947x947x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Flaming Lips",
+        "url": "https://genius.com/artists/The-flaming-lips"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3494169",
+       "full_title": "Space Oddity by\u00a0Syd\u00a0Matters",
+       "header_image_thumbnail_url": "https://images.genius.com/4483f7a87a1fb6c99b4c7f75e9220e4f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4483f7a87a1fb6c99b4c7f75e9220e4f.1000x1000x1.jpg",
+       "id": 3494169,
+       "lyrics_owner_id": 5349128,
+       "lyrics_state": "complete",
+       "path": "/Syd-matters-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/4483f7a87a1fb6c99b4c7f75e9220e4f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4483f7a87a1fb6c99b4c7f75e9220e4f.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Syd-matters-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/325908",
+        "header_image_url": "https://images.genius.com/25783f240717465950eff98f41e79129.800x481x1.jpg",
+        "id": 325908,
+        "image_url": "https://images.genius.com/4483f7a87a1fb6c99b4c7f75e9220e4f.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Syd Matters",
+        "url": "https://genius.com/artists/Syd-matters"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3514556",
+       "full_title": "Space Oddity by\u00a0Billy\u00a0Corgan",
+       "header_image_thumbnail_url": "https://images.genius.com/8f804c1eb2fe3575ec0fff8eeca9dda3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8f804c1eb2fe3575ec0fff8eeca9dda3.500x500x1.jpg",
+       "id": 3514556,
+       "lyrics_owner_id": 3264970,
+       "lyrics_state": "complete",
+       "path": "/Billy-corgan-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/8f804c1eb2fe3575ec0fff8eeca9dda3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8f804c1eb2fe3575ec0fff8eeca9dda3.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Billy-corgan-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/42637",
+        "header_image_url": "https://images.genius.com/3ec851d0940fbd3e06502b1cafbdad9e.1000x667x1.jpg",
+        "id": 42637,
+        "image_url": "https://images.genius.com/41fd2aff7f86039b774ed1cccf60648f.630x630x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Billy Corgan",
+        "url": "https://genius.com/artists/Billy-corgan"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4295332",
+       "full_title": "Space Oddity by\u00a0STARSET",
+       "header_image_thumbnail_url": "https://images.genius.com/4dc71a180cc3de0a34dbd0fc20ffc2ff.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4dc71a180cc3de0a34dbd0fc20ffc2ff.860x860x1.jpg",
+       "id": 4295332,
+       "lyrics_owner_id": 6432289,
+       "lyrics_state": "complete",
+       "path": "/Starset-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/4dc71a180cc3de0a34dbd0fc20ffc2ff.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4dc71a180cc3de0a34dbd0fc20ffc2ff.860x860x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Starset-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/253257",
+        "header_image_url": "https://images.genius.com/cc10295f0b4429be8d147e30bf9f66c3.1000x563x1.jpg",
+        "id": 253257,
+        "image_url": "https://images.genius.com/03c320de33f8da6c101c97cfdfc0df9f.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "STARSET",
+        "url": "https://genius.com/artists/Starset",
+        "iq": 108
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4948333",
+       "full_title": "Space Oddity by\u00a0California\u00a0Guitar Trio (Ft.\u00a0Montreal\u00a0Guitar Trio)",
+       "header_image_thumbnail_url": "https://images.genius.com/9c08732f7ea879306547fd468bf1e9b7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9c08732f7ea879306547fd468bf1e9b7.1000x1000x1.jpg",
+       "id": 4948333,
+       "lyrics_owner_id": 1603328,
+       "lyrics_state": "complete",
+       "path": "/California-guitar-trio-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/9c08732f7ea879306547fd468bf1e9b7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9c08732f7ea879306547fd468bf1e9b7.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity (Ft.\u00a0Montreal\u00a0Guitar Trio)",
+       "url": "https://genius.com/California-guitar-trio-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1981798",
+        "header_image_url": "https://images.genius.com/1a6b4cb9584e66be66d6610c8ef69ca7.940x400x1.jpg",
+        "id": 1981798,
+        "image_url": "https://images.genius.com/62f1f108e471dd7f03176953ecccf9c3.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "California Guitar Trio",
+        "url": "https://genius.com/artists/California-guitar-trio"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4976087",
+       "full_title": "Space Oddity by\u00a0Def\u00a0Leppard",
+       "header_image_thumbnail_url": "https://images.genius.com/6ec66c4d1b2eb8d341063995a00ec68b.160x159x1.jpg",
+       "header_image_url": "https://images.genius.com/6ec66c4d1b2eb8d341063995a00ec68b.160x159x1.jpg",
+       "id": 4976087,
+       "lyrics_owner_id": 8613973,
+       "lyrics_state": "complete",
+       "path": "/Def-leppard-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6ec66c4d1b2eb8d341063995a00ec68b.160x159x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6ec66c4d1b2eb8d341063995a00ec68b.160x159x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Def-leppard-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/38335",
+        "header_image_url": "https://images.genius.com/5056ba9716ad9c25b48bdc93ce21dd08.600x270x48.gif",
+        "id": 38335,
+        "image_url": "https://images.genius.com/8af248583cbbe5afbfe29c47d40d63ee.833x833x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Def Leppard",
+        "url": "https://genius.com/artists/Def-leppard"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5272058",
+       "full_title": "Space Oddity by\u00a0The\u00a0Flying Pickets",
+       "header_image_thumbnail_url": "https://images.genius.com/07bae127cff7e492f4d4a50b4085bc46.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/07bae127cff7e492f4d4a50b4085bc46.999x999x1.jpg",
+       "id": 5272058,
+       "lyrics_owner_id": 8613973,
+       "lyrics_state": "complete",
+       "path": "/The-flying-pickets-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/07bae127cff7e492f4d4a50b4085bc46.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/07bae127cff7e492f4d4a50b4085bc46.999x999x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/The-flying-pickets-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/378100",
+        "header_image_url": "https://images.genius.com/f27cc6a8ffb661baf3cac06b4013b236.300x300x1.jpg",
+        "id": 378100,
+        "image_url": "https://images.genius.com/f27cc6a8ffb661baf3cac06b4013b236.300x300x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Flying Pickets",
+        "url": "https://genius.com/artists/The-flying-pickets"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5450162",
+       "full_title": "Space Oddity by\u00a0Caman\u00e9 (Ft.\u00a0David\u00a0Fonseca)",
+       "header_image_thumbnail_url": "https://images.genius.com/9d21eff024a3277648acb505ca37d729.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9d21eff024a3277648acb505ca37d729.802x802x1.jpg",
+       "id": 5450162,
+       "lyrics_owner_id": 8385236,
+       "lyrics_state": "complete",
+       "path": "/Camane-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/9d21eff024a3277648acb505ca37d729.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9d21eff024a3277648acb505ca37d729.802x802x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity (Ft.\u00a0David\u00a0Fonseca)",
+       "url": "https://genius.com/Camane-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/354991",
+        "header_image_url": "https://images.genius.com/eead7f848b269f58c63dc7e0120c1663.1000x563x1.png",
+        "id": 354991,
+        "image_url": "https://images.genius.com/4e3acec65b5a4849d529dc297b26c9f4.555x555x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Caman\u00e9",
+        "url": "https://genius.com/artists/Camane"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5534197",
+       "full_title": "Space Oddity by\u00a0Ramin\u00a0Djawadi",
+       "header_image_thumbnail_url": "https://images.genius.com/52c65a1e97ebef44b577a3af6294bbcf.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/52c65a1e97ebef44b577a3af6294bbcf.1000x563x1.jpg",
+       "id": 5534197,
+       "lyrics_owner_id": 6589156,
+       "lyrics_state": "complete",
+       "path": "/Ramin-djawadi-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/a01494ab7321332d51c507b704d0a0c5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a01494ab7321332d51c507b704d0a0c5.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Ramin-djawadi-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/52417",
+        "header_image_url": "https://images.genius.com/26829355465c5c4f45cfcc47e760f115.1000x750x1.jpg",
+        "id": 52417,
+        "image_url": "https://images.genius.com/0843c9619dd7a7a1457c5c4acbbcfb75.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ramin Djawadi",
+        "url": "https://genius.com/artists/Ramin-djawadi"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5633551",
+       "full_title": "Space Oddity (David Bowie Cover) by\u00a0BATTS",
+       "header_image_thumbnail_url": "https://images.genius.com/864d1cd30f008b3d1122e8463a91d650.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/864d1cd30f008b3d1122e8463a91d650.1000x1000x1.jpg",
+       "id": 5633551,
+       "lyrics_owner_id": 3831017,
+       "lyrics_state": "complete",
+       "path": "/Batts-space-oddity-david-bowie-cover-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/864d1cd30f008b3d1122e8463a91d650.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/864d1cd30f008b3d1122e8463a91d650.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity (David Bowie Cover)",
+       "title_with_featured": "Space Oddity (David Bowie Cover)",
+       "url": "https://genius.com/Batts-space-oddity-david-bowie-cover-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/639320",
+        "header_image_url": "https://images.genius.com/c5b5c6f253cc2b956ec62af6b0fcf3f0.300x300x1.jpg",
+        "id": 639320,
+        "image_url": "https://images.genius.com/c5b5c6f253cc2b956ec62af6b0fcf3f0.300x300x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "BATTS",
+        "url": "https://genius.com/artists/Batts"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5800509",
+       "full_title": "Space Oddity (Major Steve) by\u00a0CallMeKevin",
+       "header_image_thumbnail_url": "https://images.genius.com/fd827ab8eb0262db67d958fdb01484e0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/fd827ab8eb0262db67d958fdb01484e0.352x352x1.jpg",
+       "id": 5800509,
+       "lyrics_owner_id": 7130854,
+       "lyrics_state": "complete",
+       "path": "/Callmekevin-space-oddity-major-steve-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/fd827ab8eb0262db67d958fdb01484e0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fd827ab8eb0262db67d958fdb01484e0.352x352x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity (Major Steve)",
+       "title_with_featured": "Space Oddity (Major Steve)",
+       "url": "https://genius.com/Callmekevin-space-oddity-major-steve-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1796130",
+        "header_image_url": "https://images.genius.com/fd827ab8eb0262db67d958fdb01484e0.352x352x1.jpg",
+        "id": 1796130,
+        "image_url": "https://images.genius.com/fd827ab8eb0262db67d958fdb01484e0.352x352x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "CallMeKevin",
+        "url": "https://genius.com/artists/Callmekevin"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5947531",
+       "full_title": "Space Oddity by\u00a0Willow\u00a0Beats",
+       "header_image_thumbnail_url": "https://images.genius.com/8a38d1fc9478eedc90881a79981fe638.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8a38d1fc9478eedc90881a79981fe638.1000x1000x1.jpg",
+       "id": 5947531,
+       "lyrics_owner_id": 8449469,
+       "lyrics_state": "complete",
+       "path": "/Willow-beats-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/8a38d1fc9478eedc90881a79981fe638.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8a38d1fc9478eedc90881a79981fe638.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Willow-beats-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/224372",
+        "header_image_url": "https://images.genius.com/2fc985391f52c6a74a5fcdead3a11a98.975x180x1.png",
+        "id": 224372,
+        "image_url": "https://images.genius.com/c63552bd538e0b331cf4155cd7ed5107.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Willow Beats",
+        "url": "https://genius.com/artists/Willow-beats"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6126359",
+       "full_title": "Space Oddity by\u00a0Hongjoong\u00a0(ATEEZ)",
+       "header_image_thumbnail_url": "https://images.genius.com/5c30628ad49a1adf61cd09494ddf3026.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/5c30628ad49a1adf61cd09494ddf3026.1000x563x1.jpg",
+       "id": 6126359,
+       "lyrics_owner_id": 10919416,
+       "lyrics_state": "complete",
+       "path": "/Hongjoong-ateez-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/5833c9571bb6673781222aa2a9f16499.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5833c9571bb6673781222aa2a9f16499.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/Hongjoong-ateez-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1628019",
+        "header_image_url": "https://images.genius.com/0908e775e8d974e9c69ad274f31e2e01.1000x563x1.jpg",
+        "id": 1628019,
+        "image_url": "https://images.genius.com/166677f831e3bf7ca541f9536a0a162a.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Hongjoong (ATEEZ)",
+        "url": "https://genius.com/artists/Hongjoong-ateez"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6366840",
+       "full_title": "Space Oddity by\u00a0We\u00a0Are King",
+       "header_image_thumbnail_url": "https://images.genius.com/42070f3e2b486803fbef00bc838f8953.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/42070f3e2b486803fbef00bc838f8953.1000x1000x1.jpg",
+       "id": 6366840,
+       "lyrics_owner_id": 126836,
+       "lyrics_state": "complete",
+       "path": "/We-are-king-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/42070f3e2b486803fbef00bc838f8953.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/42070f3e2b486803fbef00bc838f8953.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity",
+       "title_with_featured": "Space Oddity",
+       "url": "https://genius.com/We-are-king-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/197982",
+        "header_image_url": "https://images.genius.com/8f563ea409ca05077426319c28d91c69.1000x970x1.jpg",
+        "id": 197982,
+        "image_url": "https://images.genius.com/8f563ea409ca05077426319c28d91c69.1000x970x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "We Are King",
+        "url": "https://genius.com/artists/We-are-king"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6452177",
+       "full_title": "Space oddity by\u00a0Isaac\u00a0Dunbar",
+       "header_image_thumbnail_url": "https://images.genius.com/379cd1bd5d64ae231700c8680a158bcf.300x300x1.png",
+       "header_image_url": "https://images.genius.com/379cd1bd5d64ae231700c8680a158bcf.671x671x1.png",
+       "id": 6452177,
+       "lyrics_owner_id": 12650911,
+       "lyrics_state": "complete",
+       "path": "/Isaac-dunbar-space-oddity-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/379cd1bd5d64ae231700c8680a158bcf.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/379cd1bd5d64ae231700c8680a158bcf.671x671x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Space oddity",
+       "title_with_featured": "Space oddity",
+       "url": "https://genius.com/Isaac-dunbar-space-oddity-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1196887",
+        "header_image_url": "https://images.genius.com/2966992fe5e691445af58beae6259314.1000x429x1.jpg",
+        "id": 1196887,
+        "image_url": "https://images.genius.com/cbe40ac31d8568608aec092a161df592.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Isaac Dunbar",
+        "url": "https://genius.com/artists/Isaac-dunbar"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/1557806",
+       "full_title": "Ragazzo solo, ragazza sola by\u00a0David\u00a0Bowie",
+       "header_image_thumbnail_url": "https://images.genius.com/0360778fae45836f4f4a40994e7ea850.300x302x1.jpg",
+       "header_image_url": "https://images.genius.com/0360778fae45836f4f4a40994e7ea850.600x603x1.jpg",
+       "id": 1557806,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/David-bowie-ragazzo-solo-ragazza-sola-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/0360778fae45836f4f4a40994e7ea850.300x302x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0360778fae45836f4f4a40994e7ea850.600x603x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 7898
+       },
+       "title": "Ragazzo solo, ragazza sola",
+       "title_with_featured": "Ragazzo solo, ragazza sola",
+       "url": "https://genius.com/David-bowie-ragazzo-solo-ragazza-sola-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/9534",
+        "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+        "id": 9534,
+        "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "David Bowie",
+        "url": "https://genius.com/artists/David-bowie"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4664522",
+       "full_title": "Space Oddity (Clareville Grove Demo) [2019 Remaster] by\u00a0David\u00a0Bowie (Ft.\u00a0John\u00a0Hutchinson)",
+       "header_image_thumbnail_url": "https://images.genius.com/f8086eaec7e224a1846d82c37d1ad3ea.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f8086eaec7e224a1846d82c37d1ad3ea.1000x1000x1.jpg",
+       "id": 4664522,
+       "lyrics_owner_id": 5411054,
+       "lyrics_state": "complete",
+       "path": "/David-bowie-space-oddity-clareville-grove-demo-2019-remaster-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/f8086eaec7e224a1846d82c37d1ad3ea.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f8086eaec7e224a1846d82c37d1ad3ea.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity (Clareville Grove Demo) [2019 Remaster]",
+       "title_with_featured": "Space Oddity (Clareville Grove Demo) [2019 Remaster] (Ft.\u00a0John\u00a0Hutchinson)",
+       "url": "https://genius.com/David-bowie-space-oddity-clareville-grove-demo-2019-remaster-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/9534",
+        "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+        "id": 9534,
+        "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "David Bowie",
+        "url": "https://genius.com/artists/David-bowie"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4178279",
+       "full_title": "Space Oddity [Live Santa Monica '72] by\u00a0David\u00a0Bowie",
+       "header_image_thumbnail_url": "https://images.genius.com/c99b460495859409a5b124ed424c6b5b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c99b460495859409a5b124ed424c6b5b.600x600x1.jpg",
+       "id": 4178279,
+       "lyrics_owner_id": 3831017,
+       "lyrics_state": "complete",
+       "path": "/David-bowie-space-oddity-live-santa-monica-72-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c99b460495859409a5b124ed424c6b5b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c99b460495859409a5b124ed424c6b5b.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity [Live Santa Monica \u201972]",
+       "title_with_featured": "Space Oddity [Live Santa Monica '72]",
+       "url": "https://genius.com/David-bowie-space-oddity-live-santa-monica-72-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/9534",
+        "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+        "id": 9534,
+        "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "David Bowie",
+        "url": "https://genius.com/artists/David-bowie"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5455669",
+       "full_title": "Space Oddity [Bowie at the Beeb] by\u00a0David\u00a0Bowie",
+       "header_image_thumbnail_url": "https://images.genius.com/0511c08bf5652e74b445bb68cb3f7ca2.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0511c08bf5652e74b445bb68cb3f7ca2.1000x1000x1.jpg",
+       "id": 5455669,
+       "lyrics_owner_id": 3807492,
+       "lyrics_state": "complete",
+       "path": "/David-bowie-space-oddity-bowie-at-the-beeb-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/0511c08bf5652e74b445bb68cb3f7ca2.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0511c08bf5652e74b445bb68cb3f7ca2.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Space Oddity [Bowie at the Beeb]",
+       "title_with_featured": "Space Oddity [Bowie at the Beeb]",
+       "url": "https://genius.com/David-bowie-space-oddity-bowie-at-the-beeb-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/9534",
+        "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+        "id": 9534,
+        "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "David Bowie",
+        "url": "https://genius.com/artists/David-bowie"
+       }
+      }
+     ]
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/9534",
+     "header_image_url": "https://images.genius.com/8771f912a4cef9f4f6fb647778061d32.1000x651x1.jpg",
+     "id": 9534,
+     "image_url": "https://images.genius.com/2eea1354199a1914d947041259d25dc4.678x678x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Bowie",
+     "url": "https://genius.com/artists/David-bowie"
+    }
+   ],
+   "artist": "David Bowie",
+   "lyrics": "[Instrumental intro]\n\n[Verse 1]\nGround Control to Major Tom\nGround Control to Major Tom\nTake your protein pills and put your helmet on\n(Ten) Ground Control (Nine) to Major Tom (Eight, seven)\n(Six) Commencing (Five) countdown, engines on\n(Four, three, two)\nCheck ignition (One) and may God's love (Lift off) be with you\n\n[Instrumental Bridge]\n\n[Verse 2]\nThis is Ground Control to Major Tom\nYou've really made the grade\nAnd the papers want to know whose shirts you wear\nNow it's time to leave the capsule if you dare\nThis is Major Tom to Ground Control\nI'm stepping through the door\nAnd I'm floating in a most peculiar way\nAnd the stars look very different today\n\n[Chorus]\nFor here am I sitting in my tin can\nFar above the world\nPlanet Earth is blue\nAnd there's nothing I can do\n\n[Instrumental Bridge]\n\n[Verse 3]\nThough I'm past one hundred thousand miles\nI'm feeling very still\nAnd I think my spaceship knows which way to go\nTell my wife I love her very much\nShe knows\nGround Control to Major Tom\nYour circuit's dead, there's something wrong\nCan you hear me, Major Tom?\nCan you hear me, Major Tom?\nCan you hear me, Major Tom?\nCan you-\n\n[Chorus]\n-Here am I floating 'round my tin can\nFar above the moon\nPlanet Earth is blue\nAnd there's nothing I can do\n\n[Instrumental Outro]"
+  }
+ ]
+}
