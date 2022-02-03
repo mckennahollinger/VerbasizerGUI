@@ -4,7 +4,7 @@ import lyricsgenius as lg
 from bs4 import BeautifulSoup as bs
 import os
 
-lyrics_token = os.getenv('GENIUS_TOKEN')
+lyrics_token = os.getenv('CLIENT_TOKEN')
 
 artists = ['JPEGMAFIA', 'Kendrick Lamar', 'Kanye West', 'David Bowie', 'Mac Miller', 'Billy Joel', 'Paul McCartney',
            'John Lennon', 'Queen', 'MF DOOM', 'Tyler, The Creator', 'Earl Sweatshirt', 'Radiohead', 'Frank Ocean',
